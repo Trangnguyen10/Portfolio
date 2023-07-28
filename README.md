@@ -1,5 +1,5 @@
 # Portfolio
-Welcome to my portfolio as a Data Analyst. Here is my example work, which showcases skills in data cleaning, data modeling, and data visualization. \
+Welcome to my portfolio as a Data Analyst. Here is my example work, which showcases skills in data cleaning, data modeling, and data visualization.
 
 Caution:
 The Data Source used in my model is collected from https://www.kaggle.com/ and is not presented for any specific business.
