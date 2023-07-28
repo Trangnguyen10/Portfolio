@@ -1,7 +1,10 @@
 # Portfolio
-Welcome to my portfolio as a Data Analyst Here is my example work, which showcases skills in data cleaning, data modeling, and data visualization. Caution:
-The data Source used in my model is collected from https://www.kaggle.com/ and is not presented for any specific business.
+Welcome to my portfolio as a Data Analyst. Here is my example work, which showcases skills in data cleaning, data modeling, and data visualization. \
+
+Caution:
+The Data Source used in my model is collected from https://www.kaggle.com/ and is not presented for any specific business.
 Then, it might not illustrate accurately and adequately the real transactions in the market and then realistic insights.
+
 What include:
 1. SQL work: with Bike Store Database
 - BikeStore Query: Database building
